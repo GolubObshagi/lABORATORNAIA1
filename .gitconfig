@@ -1,0 +1,10 @@
+[user]
+	name = Купцова Инга
+	email = ingakupcova1@gmail.com
+[init]
+	defailtBranch = main
+[cor5e]
+	autocrlf = true
+[core]
+	autocrlf = true
+	safecrlf = warn
